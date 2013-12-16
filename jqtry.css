@@ -1,0 +1,30 @@
+div {
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#box1 {
+    background-color: red;
+    float: left;
+}
+#box2 {
+    background-color: green;
+    float: left;
+}
+#box3 {
+    background-color: blue;
+    float: left;
+}
+#box1a {
+    background-color: cyan;
+    float: left;
+}
+#box2a {
+    background-color: magenta;
+    float: left;
+}
+#box3a {
+    background-color: yellow;
+    float: left;
+}
